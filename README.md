@@ -1,10 +1,10 @@
 # HTML
 
-It stands for**Hyper Text Markup Language**.
+It stands for **Hyper Text Markup Language**.
 
-#### Notes:
+## Notes:
 
-- What we type in the '<head>' tag doesn't appear on the browser page.
+- What we type in the   <head>  tag doesn't appear on the browser page.
 - The   <title> tag defines the title of the document 
 - The   <meta>  tag is a self closing tag.
 - There are three modes used by the layout engines in web browsers :  
