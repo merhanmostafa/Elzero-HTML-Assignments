@@ -13,8 +13,9 @@ It stands for **Hyper Text Markup Language**.
     3. Full standard mode  
 - Browsers use a **DOCTYPE** in the beginning of the document to decide whether to handle it in quirks mode or standards mode,to ensure that your page uses full standards mode
 
->
-> ### HTML Input Types:
+
+ ### HTML Input Types:
+ 
 >
 > - `<input type="button">`                              - `<input type="checkbox">`
 > - `<input type="color">`                               - `<input type="date">`
