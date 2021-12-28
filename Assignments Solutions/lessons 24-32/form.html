@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+
+<body>
+    <div class="lessons-24-27">
+        <form action="test.py" method="post">
+            <label>Username</label><br>
+            <input type="text" placeholder="Usename" required>
+            <hr>
+            <label>Password</label><br>
+            <input type="password" placeholder="password">
+            <hr>
+            <label>Email</label><br>
+            <input type="email" placeholder="Email" required>
+            <hr>
+            <label>Mobile</label><br>
+            <input type="tel" placeholder="+20100 (234) 123" pattern="+20[0-1]{2} ([0-9]{3}) [0-9]{3}">
+            <hr>
+            <label>Subject</label><br>
+            <input type="text" placeholder="your message">
+            <hr>
+            <input type="number" value="12" hidden>
+            <input type="submit" value="Send data">
+            <input type="reset" value="Empty Form">
+        </form>
+
+    </div>
+</body>
+
+</html>
