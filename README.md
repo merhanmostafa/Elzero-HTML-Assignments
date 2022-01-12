@@ -44,18 +44,18 @@ It stands for **Hyper Text Markup Language**.
 
 ## ما هي العناصر الموجودة في اللغة من العناصر التالية؟
 
-- :white_check_mark: Header
-- :white_check_mark: Nav
-- :white_check_mark: Main
-- :white_check_mark: Aside
-- :white_check_mark: Picture
-- :white_check_mark: Figure
-- :white_check_mark: Footer
-- :white_check_mark: FigCaption
-- :white_check_mark: Section
+- Header :white_check_mark:
+- Nav :white_check_mark:
+- Main :white_check_mark:
+- Aside :white_check_mark:
+- Picture :white_check_mark:
+- Figure :white_check_mark:
+- Footer :white_check_mark:
+- FigCaption :white_check_mark:
+- Section :white_check_mark:
 - Command
-- :white_check_mark: Ruby
-- :white_check_mark: Data
-- :white_check_mark: Article
+- Ruby :white_check_mark:
+- Data :white_check_mark:
+- Article :white_check_mark:
 - Install
 - Text
