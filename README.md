@@ -42,20 +42,20 @@ It stands for **Hyper Text Markup Language**.
 > - `<input type="week">`
 >
 
-## ما هي العناصر الموجودة في اللغة من العناصر التالية؟
+### ما هي العناصر الموجودة في اللغة من العناصر التالية؟
 
-- Header :white_check_mark:
-- Nav :white_check_mark:
-- Main :white_check_mark:
-- Aside :white_check_mark:
-- Picture :white_check_mark:
-- Figure :white_check_mark:
-- Footer :white_check_mark:
-- FigCaption :white_check_mark:
-- Section :white_check_mark:
+- :white_check_mark: Header
+- :white_check_mark: Nav
+- :white_check_mark: Main
+- :white_check_mark: Aside
+- :white_check_mark: Picture
+- :white_check_mark: Figure
+- :white_check_mark: Footer
+- :white_check_mark: FigCaption
+- :white_check_mark: Section
 - Command
-- Ruby :white_check_mark:
-- Data :white_check_mark:
-- Article :white_check_mark:
+- :white_check_mark: Ruby
+- :white_check_mark: Data
+- :white_check_mark: Article
 - Install
 - Text
